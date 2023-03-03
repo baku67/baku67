@@ -7,8 +7,12 @@
 
 <br/>
 
-Bonjour, je m'apelle Basile Kuntz🙌, un jeune développeur web en formation avec une curiosité certaine pour le front-end
+Bonjour, je m'apelle Basile Kuntz🙌, un développeur web en formation avec un attrait certain pour la front-end des projets.
+
+Je suis actuellement en formation "Développeur web et web mobile" à Élan Formation Strasbourg et m'améliore en Php, Javascript, POO, SQL/BDD.
+Pour en savoir plus sur moi, venez faire un tour sur mon [Portfolio](https://www.portfolio.basilek.ovh)
 
 
-<img align="center" alt="GIF" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" />
+
+<img width="150px" align="center" alt="GIF" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" />
 
