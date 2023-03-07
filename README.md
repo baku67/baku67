@@ -14,5 +14,3 @@ Pour en savoir plus sur moi, venez faire un tour sur mon [Portfolio](https://www
 
 
 
-<img width="150px" align="center" alt="GIF" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" />
-
