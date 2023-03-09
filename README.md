@@ -1,3 +1,6 @@
+<img style="width:100%" src="https://github.com/baku67/baku67/blob/main/banniere.png">
+
+
 ### Hello World 👋 C'est [Basile](https://www.portfolio.basilek.ovh)
 
 ![HTML5](https://img.shields.io/badge/HTML5-informational)
