@@ -8,6 +8,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 ![PHP](https://img.shields.io/badge/PHP-lightgrey)
 ![MySQL](https://img.shields.io/badge/MySQL-ff69b4)
+![Symfony](https://img.shields.io/badge/Symfony-3c82f6)
 
 
 <a href="https://fr.linkedin.com/in/basile-kuntz-644baa1a1">
