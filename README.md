@@ -17,7 +17,7 @@
 
 <br><br>
 
-  Je suis développeur web en formation "Développeur web et web mobile" à Élan Formation Strasbourg et m'améliore en Php, Javascript, POO, SQL/BDD.
+  Je suis développeur web en formation "Développeur web et web mobile" à Élan Formation Strasbourg et m'améliore en Php, Javascript et Symfony.
 Pour en savoir plus sur moi, venez faire un tour sur mon [Portfolio](https://www.portfolio.basilek.ovh)
 
 [![Baku's GitHub stats](https://github-readme-stats.vercel.app/api?username=baku67)](https://github.com/baku67/github-readme-stats)
