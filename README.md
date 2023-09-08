@@ -21,7 +21,7 @@
 Pour en savoir plus sur moi, venez faire un tour sur mon [Portfolio](https://www.portfolio.basilek.ovh)
 
 
-![Baku's GitHub stats](https://github-readme-stats.vercel.app/api?username=baku67&hide=prs,issues,contribs&show_icons=true&theme=highcontrast)
+![Baku's GitHub stats](https://github-readme-stats.vercel.app/api?username=baku67&hide=prs,issues,contribs&show_icons=true&theme=calm)
 
 
 ## Mes projets
