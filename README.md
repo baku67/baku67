@@ -56,7 +56,10 @@ Pour en savoir plus sur moi, venez faire un tour sur mon [Portfolio](https://www
 
 <div>
   <h2>SquadForge</h2>
-  <img alt="Screenshot of the SquadForge" src="" />
+  <img alt="Screenshot of SquadForge" src="https://github.com/baku67/baku67/blob/main/squadForge_banner0.png" />
+  <img alt="Screenshot of SquadForge" src="https://github.com/baku67/baku67/blob/main/squadForge_banner1.png" />
+  <img alt="Screenshot of SquadForge" src="https://github.com/baku67/baku67/blob/main/squadForge_banner2.png" />
+  <img alt="Screenshot of SquadForge" src="https://github.com/baku67/baku67/blob/main/squadForge_banner3.png" />
   <div>
     
   </div>
