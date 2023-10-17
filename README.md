@@ -20,9 +20,9 @@
   Je suis développeur web en formation "Développeur web et web mobile" à Élan Formation Strasbourg et m'améliore en Php, Javascript et Symfony.
 Pour en savoir plus sur moi, venez faire un tour sur mon [Portfolio](https://www.portfolio.basilek.ovh)
 
-<div style="display:flex; justify-content:center;">
-  ![Baku's GitHub stats](https://github-readme-stats.vercel.app/api?username=baku67&hide=prs,issues,contribs&show_icons=true&theme=tokyonight)
-</div>
+
+![Baku's GitHub stats](https://github-readme-stats.vercel.app/api?username=baku67&hide=prs,issues,contribs&show_icons=true&theme=tokyonight)
+
 
 
 # Mes projets
