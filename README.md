@@ -36,14 +36,11 @@ Pour en savoir plus sur moi, venez faire un tour sur mon [Portfolio](https://www
   </div>
 </div>
 
-<br>
-
-
 ## BlackJack Jo'
 <div>
-  <img >
+
   Description BlackJackJo
-  <img>
+
 </div>
 
 
