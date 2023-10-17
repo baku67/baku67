@@ -25,10 +25,10 @@ Pour en savoir plus sur moi, venez faire un tour sur mon [Portfolio](https://www
 
 
 
-# Mes projets
+<h1>Mes projets</h1>
 
-## Mon Portfolio:
 <div>
+  <h2>Mon Portfolio</h2>
   <img alt="Demo of my portfolio website" src="https://github.com/baku67/baku67/blob/main/redim50.webp" />
   <div>
     <img align="left" alt="Screenshot of my portfolio website" src="https://i.ibb.co/yy5CwHn/v-Pjtu-Tvk-DA.png" />
@@ -38,12 +38,11 @@ Pour en savoir plus sur moi, venez faire un tour sur mon [Portfolio](https://www
 
 <br>
 
-<h2>BlackJack Jo'</h2>
 <div>
-
-  Description BlackJackJo
-
-</div>
+  <h2>BlackJack Jo'</h2>
+  <div>
+    <p>Description BlackJackJo</p>
+  </div>
 
 
 
