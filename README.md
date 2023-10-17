@@ -28,10 +28,12 @@ Pour en savoir plus sur moi, venez faire un tour sur mon [Portfolio](https://www
 # Mes projets
 
 ## Mon Portfolio:
-![Screenshot of my portfolio website](https://github.com/baku67/baku67/blob/main/redim50.webp)
 <div>
-  <img align="left" alt="Screenshot of my portfolio website" src="https://i.ibb.co/yy5CwHn/v-Pjtu-Tvk-DA.png" />
-  Projet personnel de développement 
+  ![Screenshot of my portfolio website](https://github.com/baku67/baku67/blob/main/redim50.webp)
+  <div>
+    <img align="left" alt="Screenshot of my portfolio website" src="https://i.ibb.co/yy5CwHn/v-Pjtu-Tvk-DA.png" />
+    Projet personnel de développement 
+  </div>
 </div>
 
 <br>
