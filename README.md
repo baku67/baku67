@@ -34,7 +34,6 @@ Pour en savoir plus sur moi, venez faire un tour sur mon [Portfolio](https://www
     <img width="220" align="left" alt="Screenshot of my portfolio website" src="https://i.ibb.co/yy5CwHn/v-Pjtu-Tvk-DA.png" />
     <img width="220" align="left" alt="Screenshot of my portfolio website" src="https://i.ibb.co/yy5CwHn/v-Pjtu-Tvk-DA.png" />
     <img width="220" align="left" alt="Screenshot of my portfolio website" src="https://i.ibb.co/yy5CwHn/v-Pjtu-Tvk-DA.png" />
-    <p>Projet personnel de développement</p>
   </div>
 </div>
 
