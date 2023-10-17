@@ -1,4 +1,4 @@
-<img style="width:100%" src="https://github.com/baku67/baku67/blob/main/banniere.png">
+<img style="width:100%" src="https://github.com/baku67/baku67/blob/main/redim50.webp">
 
 
 ### Hello World 👋 C'est [Basile](https://www.portfolio.basilek.ovh)
