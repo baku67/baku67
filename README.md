@@ -12,7 +12,7 @@
 
 
 <a href="https://fr.linkedin.com/in/basile-kuntz-644baa1a1">
-<img align="left" color:"white" alt="Saket Prag" width="22px" src="https://github.com/baku67/baku67/blob/main/redim50.webp" />
+<img align="left" color:"white" alt="Saket Prag" width="22px" src="https://www.iconsdb.com/icons/preview/white/linkedin-3-xxl.png" />
 </a>
 
 <br><br>
@@ -27,6 +27,6 @@ Pour en savoir plus sur moi, venez faire un tour sur mon [Portfolio](https://www
 ## Mes projets
 
 ![Screenshot of my portfolio website](https://i.ibb.co/yy5CwHn/v-Pjtu-Tvk-DA.png)
-
+<img alt="my portfolio website" src="https://github.com/baku67/baku67/blob/main/redim50.webp" />
 
 
