@@ -32,17 +32,18 @@ Pour en savoir plus sur moi, venez faire un tour sur mon [Portfolio](https://www
   <img alt="Demo of my portfolio website" src="https://github.com/baku67/baku67/blob/main/redim50.webp" />
   <div>
     <img align="left" alt="Screenshot of my portfolio website" src="https://i.ibb.co/yy5CwHn/v-Pjtu-Tvk-DA.png" />
-    <p style="height:500px;">Projet personnel de développement</p>
+    <p>Projet personnel de développement</p>
   </div>
 </div>
 
-<br>
+<br />
 
 <div>
   <h2>BlackJack Jo'</h2>
   <div>
     <p>Description BlackJackJo</p>
   </div>
+</div>
 
 
 
