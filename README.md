@@ -29,7 +29,7 @@ Pour en savoir plus sur moi, venez faire un tour sur mon [Portfolio](https://www
 
 ## Mon Portfolio:
 <div>
-  ![Screenshot of my portfolio website](https://github.com/baku67/baku67/blob/main/redim50.webp)
+  <img alt="Demo of my portfolio website" src="https://github.com/baku67/baku67/blob/main/redim50.webp" />
   <div>
     <img align="left" alt="Screenshot of my portfolio website" src="https://i.ibb.co/yy5CwHn/v-Pjtu-Tvk-DA.png" />
     Projet personnel de développement 
