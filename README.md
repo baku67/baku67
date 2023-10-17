@@ -34,6 +34,7 @@ Pour en savoir plus sur moi, venez faire un tour sur mon [Portfolio](https://www
   Projet personnel de développement 
 </div>
 
+<br>
 
 ## BlackJack Jo'
 <div>
