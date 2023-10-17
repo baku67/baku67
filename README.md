@@ -1,6 +1,24 @@
-<style>
-  .test {color:red;}
-</style>
+<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+            h1 {
+                color: red;
+                animation: mymove 2s infinite;
+            }
+            @keyframes mymove {
+                from {
+                    color: red;
+                }
+                to {
+                    color: yellow;
+                }
+            }
+            </style>
+            <h1>HELLO WORLD!</h1>
+        </div>
+    </foreignObject>
+</svg>
 
 
 <img style="width:100%" src="https://github.com/baku67/baku67/blob/main/banniere.png">
@@ -34,7 +52,6 @@ Pour en savoir plus sur moi, venez faire un tour sur mon [Portfolio](https://www
 
 <div>
   <h2>Mon Portfolio</h2>
-  <div style="color:red;">TEST</div>
   <img alt="Demo of my portfolio website" src="https://github.com/baku67/baku67/blob/main/redim50.webp" />
   <div style="display:inline-flex; justify-content:space-between;">
     <img width="220" alt="Mobile screenshot of my portfolio website" src="https://i.ibb.co/yy5CwHn/v-Pjtu-Tvk-DA.png" />
