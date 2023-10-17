@@ -1,3 +1,8 @@
+<style>
+  .test {color:red;}
+</style>
+
+
 <img style="width:100%" src="https://github.com/baku67/baku67/blob/main/banniere.png">
 
 
@@ -29,6 +34,7 @@ Pour en savoir plus sur moi, venez faire un tour sur mon [Portfolio](https://www
 
 <div>
   <h2>Mon Portfolio</h2>
+  <div class="test">TEST</div>
   <img alt="Demo of my portfolio website" src="https://github.com/baku67/baku67/blob/main/redim50.webp" />
   <div style="display:inline-flex; justify-content:space-between;">
     <img width="220" alt="Mobile screenshot of my portfolio website" src="https://i.ibb.co/yy5CwHn/v-Pjtu-Tvk-DA.png" />
