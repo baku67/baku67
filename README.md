@@ -1,7 +1,7 @@
 <img style="width:100%" src="https://github.com/baku67/baku67/blob/main/banniere.png">
 
 
-### Hello World 👋 C'est [Basile](https://www.portfolio.basilek.ovh)
+# Hello World 👋 C'est [Basile](https://www.portfolio.basilek.ovh)
 
 ![HTML5](https://img.shields.io/badge/HTML5-informational)
 ![CSS3](https://img.shields.io/badge/CSS3-important)
@@ -20,17 +20,26 @@
   Je suis développeur web en formation "Développeur web et web mobile" à Élan Formation Strasbourg et m'améliore en Php, Javascript et Symfony.
 Pour en savoir plus sur moi, venez faire un tour sur mon [Portfolio](https://www.portfolio.basilek.ovh)
 
+<div style="display:flex; justify-content:center;">
+  ![Baku's GitHub stats](https://github-readme-stats.vercel.app/api?username=baku67&hide=prs,issues,contribs&show_icons=true&theme=tokyonight)
+</div>
 
-![Baku's GitHub stats](https://github-readme-stats.vercel.app/api?username=baku67&hide=prs,issues,contribs&show_icons=true&theme=tokyonight)
 
+# Mes projets
 
-## Mes projets
-
+## Mon Portfolio:
 ![Screenshot of my portfolio website](https://github.com/baku67/baku67/blob/main/redim50.webp)
-
 <div>
   <img align="left" alt="Screenshot of my portfolio website" src="https://i.ibb.co/yy5CwHn/v-Pjtu-Tvk-DA.png" />
-  Test description
+  Projet personnel de développement 
+</div>
+
+
+## BlackJack Jo'
+<div>
+  <img >
+  Description BlackJackJo
+  <img>
 </div>
 
 
