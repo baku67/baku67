@@ -36,7 +36,7 @@ Pour en savoir plus sur moi, venez faire un tour sur mon [Portfolio](https://www
   </div>
 </div>
 
-<br />
+<br><br><br><br><br><br><br><br>
 
 <div>
   <h2>BlackJack Jo'</h2>
