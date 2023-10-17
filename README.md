@@ -1,4 +1,4 @@
-<img style="width:100%" src="https://github.com/baku67/baku67/blob/main/redim50.webp">
+<img style="width:100%" src="https://github.com/baku67/baku67/blob/main/banniere.png">
 
 
 ### Hello World 👋 C'est [Basile](https://www.portfolio.basilek.ovh)
@@ -12,7 +12,7 @@
 
 
 <a href="https://fr.linkedin.com/in/basile-kuntz-644baa1a1">
-<img align="left" color:"white" alt="Saket Prag" width="22px" src="https://www.iconsdb.com/icons/preview/white/linkedin-3-xxl.png" />
+<img align="left" color:"white" alt="Saket Prag" width="22px" src="https://github.com/baku67/baku67/blob/main/redim50.webp" />
 </a>
 
 <br><br>
