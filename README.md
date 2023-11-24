@@ -29,7 +29,7 @@ Pour en savoir plus sur moi, venez faire un tour sur mon [Portfolio](https://www
 
 <div>
   
-  <h2><a href="https://www.portfolio.basilek.ovh">Mon Portfolio</a></h2>
+  <h2><a href="https://www.portfolio.basilek.ovh" target="_blank">Mon Portfolio</a></h2>
   
   <img alt="Demo of my portfolio website" src="https://github.com/baku67/baku67/blob/main/redim50.webp" />
   <div style="display:inline-flex; justify-content:space-between;">
@@ -46,7 +46,7 @@ Pour en savoir plus sur moi, venez faire un tour sur mon [Portfolio](https://www
 
 <div>
   
-  <h2><a href="https://www.blackjackjo.com">BlackJack Jo'</a></h2>
+  <h2><a href="https://www.blackjackjo.com" target="_blank">BlackJack Jo'</a></h2>
   
   <img alt="Screenshot of the project game result" src="https://github.com/baku67/baku67/blob/main/blackjackjoBanner.png" />
   <div>
