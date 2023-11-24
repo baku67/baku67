@@ -28,9 +28,9 @@ Pour en savoir plus sur moi, venez faire un tour sur mon [Portfolio](https://www
 <h1>Mes projets</h1>
 
 <div>
-  <a href="https://www.portfolio.basilek.ovh">
-    <h2>Mon Portfolio</h2>
-  </a>
+  
+  <h2><a href="https://www.portfolio.basilek.ovh">Mon Portfolio</a></h2>
+  
   <img alt="Demo of my portfolio website" src="https://github.com/baku67/baku67/blob/main/redim50.webp" />
   <div style="display:inline-flex; justify-content:space-between;">
     <img width="220" alt="Mobile screenshot of my portfolio website" src="https://i.ibb.co/yy5CwHn/v-Pjtu-Tvk-DA.png" />
