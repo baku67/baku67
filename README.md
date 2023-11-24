@@ -17,7 +17,7 @@
 
 <br><br>
 
-  Je suis développeur web en formation "Développeur web et web mobile" à Élan Formation Strasbourg et m'améliore en Php, Javascript et Symfony.
+  Je suis développeur web et web mobile et travaille actuellement sur Symfony et React.
 Pour en savoir plus sur moi, venez faire un tour sur mon [Portfolio](https://www.portfolio.basilek.ovh)
 
 
