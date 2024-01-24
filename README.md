@@ -33,7 +33,7 @@ Pour en savoir plus sur moi, venez faire un tour sur mon [Portfolio](https://www
   
   <img alt="Demo of my portfolio website" src="https://github.com/baku67/baku67/blob/main/redim50.webp" />
   <div style="display:inline-flex; justify-content:space-between;">
-    <img width="220" alt="Mobile screenshot of my portfolio website" src="https://i.ibb.co/yy5CwHn/v-Pjtu-Tvk-DA.png" />
+    <img width="220" alt="Mobile screenshot of my portfolio website" src="https://github.com/baku67/baku67/blob/main/portfolio1.png" />
     <img width="220" alt="Mobile screenshot of my portfolio website" src="https://github.com/baku67/baku67/blob/main/portfolio2.png" />
     <img width="220" alt="Mobile screenshot of my portfolio website" src="https://github.com/baku67/baku67/blob/main/portfolio3.png" />
     <img width="220" alt="Mobile screenshot of my portfolio website" src="https://github.com/baku67/baku67/blob/main/portfolio4.png" />
