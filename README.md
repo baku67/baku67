@@ -43,19 +43,6 @@ Pour en savoir plus sur moi, venez faire un tour sur mon [Portfolio](https://www
 </div>
 
 
-<br><br>
-
-
-<div>
-  
-  <h2><a href="https://www.blackjackjo.com" target="_blank">BlackJack Jo'</a></h2>
-  
-  <img alt="Screenshot of the project game result" src="https://github.com/baku67/baku67/blob/main/blackjackjoBanner.png" />
-  <div>
-    <img width="220" alt="Demo of the blackjackjo project" src="https://github.com/baku67/baku67/blob/main/blackjackjo_Demo1.webp" />
-  </div>
-</div>
-
 
 <br><br>
 
@@ -83,6 +70,21 @@ Pour en savoir plus sur moi, venez faire un tour sur mon [Portfolio](https://www
     <img width="220" alt="squadforge project screenshot" src="https://github.com/baku67/baku67/blob/main/squadforge_screenshot3.png" />
   </div>
   
+</div>
+
+
+
+<br><br>
+
+
+<div>
+  
+  <h2><a href="https://www.blackjackjo.com" target="_blank">BlackJack Jo'</a></h2>
+  
+  <img alt="Screenshot of the project game result" src="https://github.com/baku67/baku67/blob/main/blackjackjoBanner.png" />
+  <div>
+    <img width="220" alt="Demo of the blackjackjo project" src="https://github.com/baku67/baku67/blob/main/blackjackjo_Demo1.webp" />
+  </div>
 </div>
 
 
