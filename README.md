@@ -83,7 +83,8 @@ Pour en savoir plus sur moi, venez faire un tour sur mon [Portfolio](https://www
   
   <img alt="Screenshot of the project game result" src="https://github.com/baku67/baku67/blob/main/blackjackjoBanner.png" />
   <div>
-    <img width="220" alt="Demo of the blackjackjo project" src="https://github.com/baku67/baku67/blob/main/blackjackjo_Demo1.webp" />
+    <img width="220" alt="blackjackjo project demo" src="https://github.com/baku67/baku67/blob/main/blackjackjo_Demo1.webp" />
+    <img width="220" alt="blackjackjo project demo" src="https://github.com/baku67/baku67/blob/main/blackjackjo_Demo2.webp" />
   </div>
 </div>
 
