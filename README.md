@@ -72,8 +72,11 @@ Pour en savoir plus sur moi, venez faire un tour sur mon [Portfolio](https://www
   <img alt="Screenshot of SquadForge" src="https://github.com/baku67/baku67/blob/main/squadForge_banner0.png" />
 
   <div>
-    <img width="220" alt="Demo of the blackjackjo project" src="https://github.com/baku67/baku67/blob/main/squadforge_Demo1.webp" />
-    <img width="220" alt="Demo of the blackjackjo project" src="https://github.com/baku67/baku67/blob/main/squadforge_Demo2.webp" />
+    <img width="220" alt="squadforge project demo" src="https://github.com/baku67/baku67/blob/main/squadforge_Demo1.webp" />
+    <img width="220" alt="squadforge project demo" src="https://github.com/baku67/baku67/blob/main/squadforge_Demo2.webp" />
+    <img width="220" alt="squadforge project screenshot" src="https://github.com/baku67/baku67/blob/main/squadforge_screenshot1.png" />
+    <img width="220" alt="squadforge project screenshot" src="https://github.com/baku67/baku67/blob/main/squadforge_screenshot2.png" />
+    <img width="220" alt="squadforge project screenshot" src="https://github.com/baku67/baku67/blob/main/squadforge_screenshot3.png" />
   </div>
   
 </div>
