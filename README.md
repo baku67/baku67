@@ -66,10 +66,11 @@ Pour en savoir plus sur moi, venez faire un tour sur mon [Portfolio](https://www
   <img alt="Screenshot of SquadForge" src="https://github.com/baku67/baku67/blob/main/squadForge_banner1.png" />
   <img alt="Screenshot of SquadForge" src="https://github.com/baku67/baku67/blob/main/squadForge_banner2.png" />
   <img alt="Screenshot of SquadForge" src="https://github.com/baku67/baku67/blob/main/squadForge_banner3.png" />
-  
+
   <div>
-    <img alt="Screenshot of SquadForge" src="https://github.com/baku67/baku67/blob/main/squadForge_trimmed.mp4" />
+    <img width="220" alt="Demo of the blackjackjo project" src="https://github.com/baku67/baku67/blob/main/squadforge_Demo1.webp" />
   </div>
+  
 </div>
 
 
