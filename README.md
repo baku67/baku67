@@ -28,6 +28,7 @@ Pour en savoir plus sur moi, venez faire un tour sur mon [Portfolio](https://www
 <h1>Mes projets</h1>
 
 <img alt="Projects preview" src="https://github.com/baku67/baku67/blob/main/projects_preview.webp" />
+<img alt="Preview of my projects on desktop" src="https://github.com/baku67/baku67/blob/main/test_spedup.webp" />
 
 <div>
   
