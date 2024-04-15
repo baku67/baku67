@@ -60,7 +60,7 @@
 
   <p>Plateforme communautaire dans l'univers du "gaming"</p>
 
-  <p>Fonctionalités principales :</p>
+  <ins>Fonctionalités principales :</ins>
   <ul>
     <li>Création de compte, authentification</li>
     <li>Liste des jeux disponibles avec filtres, pages de jeux uniques, système de favoris et de notation (Carrousels avec la librairie Splide JS)</li>
@@ -78,7 +78,7 @@
     <li>BackOffice avec le bundle Symfony EasyAdmin</li>
   </ul>
 
-  <p>Autres points abordés :</p>
+  <ins>Autres points abordés :</ins>
   <ul>
     <li>Responsive Design (Media Queries et fonctionnalités JS spécifiques, menu Burger, etc...)</li>
     <li>Bonnes pratiques SEO (sémantique HTML, maillage interne et externe, sitemap.xml généré dynamiquement, CTA, breadcrumbs, Slugs, tags <meta>, attributs alt, etc...)</li>
@@ -89,12 +89,7 @@
     <li>Respect des normes RGPD et cybersécurité (anonymisation lors de suppression de contenu, Hashage des mots de passe, Tokens CSRF, Honeypot, lutte contre la faille XSS et la faille Upload, vérifications des rôles de l'utilisateur, échappement Twig, tarteaucitron.js, etc...)</li>
   </ul>
 
-  <!---
-  <img alt="Screenshot of SquadForge" src="https://github.com/baku67/baku67/blob/main/squadForge_banner0.png" />
-  <img alt="Screenshot of SquadForge" src="https://github.com/baku67/baku67/blob/main/squadForge_banner1.png" />
-  <img alt="Screenshot of SquadForge" src="https://github.com/baku67/baku67/blob/main/squadForge_banner2.png" />
-  <img alt="Screenshot of SquadForge" src="https://github.com/baku67/baku67/blob/main/squadForge_banner3.png" />
-  -->
+  </br>
 
   <div align="center">
     <img alt="squadforge project demo desktop" src="https://github.com/baku67/baku67/blob/main/squadforge_desktop_demo.webp" />
