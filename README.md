@@ -68,7 +68,16 @@
 
 <div>
   
-  <h2 align="center"><a href="https://squadforge.ovh" target="_blank">SquadForge</a></h2>
+  <h2 align="center">SquadForge</h2>
+  <h3 align="center">"Find your mates, Rule the game"</h3>
+
+  <p>Plateforme communautaire dans l'univers du "gaming"</p>
+
+  <p>Fonctionalités principales:</p>
+  <ul>
+    <li>Création de compte, authentification</li>
+    <li>test markdown</li>
+  </ul>
 
   <!---
   <img alt="Screenshot of SquadForge" src="https://github.com/baku67/baku67/blob/main/squadForge_banner0.png" />
@@ -88,6 +97,9 @@
     <img width="220" alt="squadforge project screenshot" src="https://github.com/baku67/baku67/blob/main/squadforge_screenshot2.png" />
     <img width="220" alt="squadforge project screenshot" src="https://github.com/baku67/baku67/blob/main/squadforge_screenshot3.png" />
   </div>
+
+  <a href="https://squadforge.ovh" target="_blank">Voir le site</a>
+  <a href="https://github.com/baku67/squadforge">Voir le projet</a>
   
 </div>
 
