@@ -82,7 +82,7 @@
     <img alt="squadforge project demo desktop" src="https://github.com/baku67/baku67/blob/main/squadforge_desktop_demo.webp" />
   </div>
 
-  <div>
+  <div align="center">
     <img width="220" alt="squadforge project demo" src="https://github.com/baku67/baku67/blob/main/squadforge_Demo1.webp" />
     <img width="220" alt="squadforge project demo" src="https://github.com/baku67/baku67/blob/main/squadforge_Demo2.webp" />
     <img width="220" alt="squadforge project screenshot" src="https://github.com/baku67/baku67/blob/main/squadforge_screenshot1.png" />
