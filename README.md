@@ -78,7 +78,7 @@
   <img alt="Screenshot of SquadForge" src="https://github.com/baku67/baku67/blob/main/squadForge_banner3.png" />
   -->
 
-  <div>
+  <div align="center">
     <img alt="squadforge project demo desktop" src="https://github.com/baku67/baku67/blob/main/squadforge_desktop_demo.webp" />
   </div>
 
