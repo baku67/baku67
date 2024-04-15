@@ -75,7 +75,7 @@
     <li>Planification de Sessions de jeu au sein d'une Team (librairie **FullCallendar JS**, système de disponibilité des membres, notifications)</li>
     <li>Notifications cliquables (A propos des statuts de validation des publications, des upvotes, des nouveautés et évènements dans les Teams, nouvelles sessions planifiées, etc...)</li>
     <li>Page de compte (liste des publications avec statut de validation, informations de compte)</li>
-    <li>BackOffice avec le bundle Symfony **EasyAdmin**</li>
+    <li>BackOffice avec le bundle Symfony __EasyAdmin__</li>
   </ul>
 
   <ins>Autres points abordés :</ins>
