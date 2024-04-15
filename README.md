@@ -40,7 +40,7 @@
 
 
 
-</br></br>
+</br></br></br>
 
 
 <h1 align="center">Mes projets</h1>
@@ -48,22 +48,9 @@
 <img alt="Projects preview" src="https://github.com/baku67/baku67/blob/main/projects_preview.webp" />
 <img alt="Preview of my projects on desktop" src="https://github.com/baku67/baku67/blob/main/demo_spedUp_cropped.webp" />
 
-<div>
-  
-  <h2 align="center"><a href="https://www.portfolio.basilek.ovh" target="_blank">Mon Portfolio</a></h2>
-  
-  <img alt="Demo of my portfolio website" src="https://github.com/baku67/baku67/blob/main/redim50.webp" />
-  <div style="display:inline-flex; justify-content:space-between;">
-    <img width="220" alt="Mobile screenshot of my portfolio website" src="https://github.com/baku67/baku67/blob/main/portfolio1.png" />
-    <img width="220" alt="Mobile screenshot of my portfolio website" src="https://github.com/baku67/baku67/blob/main/portfolio2.png" />
-    <img width="220" alt="Mobile screenshot of my portfolio website" src="https://github.com/baku67/baku67/blob/main/portfolio3.png" />
-    <img width="220" alt="Mobile screenshot of my portfolio website" src="https://github.com/baku67/baku67/blob/main/portfolio4.png" />
-  </div>
-</div>
 
 
-
-</br>
+</br></br>
 
 
 <div>
@@ -128,7 +115,31 @@
 
 
 
-</br>
+</br></br>
+
+
+
+
+
+<div>
+  
+  <h2 align="center"><a href="https://www.portfolio.basilek.ovh" target="_blank">Mon Portfolio</a></h2>
+  
+  <img alt="Demo of my portfolio website" src="https://github.com/baku67/baku67/blob/main/redim50.webp" />
+  <div style="display:inline-flex; justify-content:space-between;">
+    <img width="220" alt="Mobile screenshot of my portfolio website" src="https://github.com/baku67/baku67/blob/main/portfolio1.png" />
+    <img width="220" alt="Mobile screenshot of my portfolio website" src="https://github.com/baku67/baku67/blob/main/portfolio2.png" />
+    <img width="220" alt="Mobile screenshot of my portfolio website" src="https://github.com/baku67/baku67/blob/main/portfolio3.png" />
+    <img width="220" alt="Mobile screenshot of my portfolio website" src="https://github.com/baku67/baku67/blob/main/portfolio4.png" />
+  </div>
+</div>
+
+
+
+
+
+</br></br>
+
 
 
 <div>
