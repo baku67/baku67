@@ -12,9 +12,8 @@
 
 - 📫 Me contacter **basile08@hotmail.fr**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<h3 align="left">Connect with me: <a href="https://linkedin.com/in/baku67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baku67" height="30" width="40" /></a> </h3>
+
 
 <h3 align="left">Technologies et outils:</h3>
 <p align="left"> 
