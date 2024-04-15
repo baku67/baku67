@@ -88,6 +88,8 @@
     <li>Filtres et extensions Twig spécifiques</li>
     <li>Respect des normes RGPD et cybersécurité (anonymisation lors de suppression de contenu, Hashage des mots de passe, Tokens CSRF, Honeypot, lutte contre la faille XSS et la faille Upload, vérifications des rôles de l'utilisateur, échappement Twig, tarteaucitron.js, etc...)</li>
   </ul>
+  <p>**test**</p>
+  **test**
 
   </br>
 
