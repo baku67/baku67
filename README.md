@@ -8,11 +8,11 @@
 
 - 🌱 Je me forme actuellement sur **React**
 
-- 👨‍💻 Mes projets principaux sont disponibles sur [bk-def.fr](https://bk-def.fr)
+- 👨‍💻 Mes projets principaux sont disponibles sur [bk-def.fr](https://bk-dev.fr)
 
 - 📫 Me contacter **basile08@hotmail.fr**
 
-<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/basile-kuntz-719278267" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baku67" height="30" width="40" /></a> </h3>
+<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/basile-kuntz-719278267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baku67" height="30" width="40" /></a> </h3>
 
 
 <h3 align="left">Technologies et outils:</h3>
@@ -43,14 +43,14 @@
 </br></br>
 
 
-<h2 align="center">Mes projets</h2>
+<h1 align="center">Mes projets</h1>
 
 <img alt="Projects preview" src="https://github.com/baku67/baku67/blob/main/projects_preview.webp" />
 <img alt="Preview of my projects on desktop" src="https://github.com/baku67/baku67/blob/main/demo_spedUp_cropped.webp" />
 
 <div>
   
-  <h3><a href="https://www.portfolio.basilek.ovh" target="_blank">Mon Portfolio</a></h3>
+  <h2><a href="https://www.portfolio.basilek.ovh" target="_blank">Mon Portfolio</a></h2>
   
   <img alt="Demo of my portfolio website" src="https://github.com/baku67/baku67/blob/main/redim50.webp" />
   <div style="display:inline-flex; justify-content:space-between;">
@@ -68,7 +68,7 @@
 
 <div>
   
-  <h3><a href="https://squadforge.ovh" target="_blank">SquadForge</a></h3>
+  <h2><a href="https://squadforge.ovh" target="_blank">SquadForge</a></h2>
 
   <!---
   <img alt="Screenshot of SquadForge" src="https://github.com/baku67/baku67/blob/main/squadForge_banner0.png" />
@@ -98,7 +98,7 @@
 
 <div>
   
-  <h3><a href="https://www.blackjackjo.com" target="_blank">BlackJack Jo'</a></h3>
+  <h2><a href="https://www.blackjackjo.com" target="_blank">BlackJack Jo'</a></h2>
   
   <img alt="Screenshot of the project game result" src="https://github.com/baku67/baku67/blob/main/blackjackjoBanner.png" />
   <div>
