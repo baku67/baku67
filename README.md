@@ -58,7 +58,7 @@
   <h2 align="center">SquadForge</h2>
   <h3 align="center">"Find your mates, Rule the game"</h3>
 
-  <p>Plateforme communautaire dans l'univers du "gaming"</p>
+  <p align="center">Plateforme communautaire dans l'univers du "gaming"</p>
 
   <ins>Fonctionalités principales :</ins>
   <ul>
@@ -103,8 +103,10 @@
     <img width="220" alt="squadforge project screenshot" src="https://github.com/baku67/baku67/blob/main/squadforge_screenshot3.png" />
   </div>
 
-  <a href="https://squadforge.ovh">Voir le site</a>
-  <a href="https://github.com/baku67/squadforge">Voir le projet</a>
+  <div align="center">
+    <a href="https://squadforge.ovh">Voir le site</a>
+    <a href="https://github.com/baku67/squadforge">Voir le projet</a>
+  </div>
   
 </div>
 
