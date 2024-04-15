@@ -21,12 +21,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=baku67&show_icons=true&locale=en&layout=compact" alt="baku67" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baku67&show_icons=true&locale=en" alt="baku67" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=baku67&hide=prs,issues,contribs&show_icons=true&theme=tokyonight&locale=fr" alt="baku67" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baku67&" alt="baku67" /></p>
 
 
-![Baku's GitHub stats](https://github-readme-stats.vercel.app/api?username=baku67&hide=prs,issues,contribs&show_icons=true&theme=tokyonight)
 
 
 
