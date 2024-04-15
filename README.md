@@ -72,10 +72,10 @@
     <li>Tableau de bord de modération (signalements regroupés sous forme de carte avec aperçu du contenu signalé, nombre de signalement par motif, ajout de mot censuré lors de publication, validation ou refus de publication, réduction au silence ou bannissement avec durée suite à un signalement)</li>
     <li>Création de Teams (et personnalisation/édition: Nom et bannière, nombre de place, visibilité, critères de candidature, ajout de questions de candidature, exclure un membre, passer le leadership, etc...)</li>
     <li>Candidature à une Team (présentation + réponse aux questions)</li>
-    <li>Planification de Sessions de jeu au sein d'une Team (librairie **FullCallendar JS**, système de disponibilité des membres, notifications)</li>
+    <li>Planification de Sessions de jeu au sein d'une Team (librairie FullCallendar JS, système de disponibilité des membres, notifications)</li>
     <li>Notifications cliquables (A propos des statuts de validation des publications, des upvotes, des nouveautés et évènements dans les Teams, nouvelles sessions planifiées, etc...)</li>
     <li>Page de compte (liste des publications avec statut de validation, informations de compte)</li>
-    <li>BackOffice avec le bundle Symfony __EasyAdmin__</li>
+    <li>BackOffice avec le bundle Symfony EasyAdmin</li>
   </ul>
 
   <ins>Autres points abordés :</ins>
