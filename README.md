@@ -8,11 +8,11 @@
 
 - 🌱 Je me forme actuellement sur **React**
 
-- 👨‍💻 Mes projets principaux sont disponibles sur [bk-def.fr](bk-def.fr)
+- 👨‍💻 Mes projets principaux sont disponibles sur [bk-def.fr](https://bk-def.fr)
 
 - 📫 Me contacter **basile08@hotmail.fr**
 
-<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/basile-kuntz-719278267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baku67" height="30" width="40" /></a> </h3>
+<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/basile-kuntz-719278267" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baku67" height="30" width="40" /></a> </h3>
 
 
 <h3 align="left">Technologies et outils:</h3>
