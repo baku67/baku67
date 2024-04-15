@@ -50,7 +50,7 @@
 
 <div>
   
-  <h2><a href="https://www.portfolio.basilek.ovh" target="_blank">Mon Portfolio</a></h2>
+  <h2 align="center"><a href="https://www.portfolio.basilek.ovh" target="_blank">Mon Portfolio</a></h2>
   
   <img alt="Demo of my portfolio website" src="https://github.com/baku67/baku67/blob/main/redim50.webp" />
   <div style="display:inline-flex; justify-content:space-between;">
@@ -63,12 +63,12 @@
 
 
 
-<br><br>
+</br>
 
 
 <div>
   
-  <h2><a href="https://squadforge.ovh" target="_blank">SquadForge</a></h2>
+  <h2 align="center"><a href="https://squadforge.ovh" target="_blank">SquadForge</a></h2>
 
   <!---
   <img alt="Screenshot of SquadForge" src="https://github.com/baku67/baku67/blob/main/squadForge_banner0.png" />
@@ -93,12 +93,12 @@
 
 
 
-<br><br>
+</br>
 
 
 <div>
   
-  <h2><a href="https://www.blackjackjo.com" target="_blank">BlackJack Jo'</a></h2>
+  <h2 align="center"><a href="https://www.blackjackjo.com" target="_blank">BlackJack Jo'</a></h2>
   
   <img alt="Screenshot of the project game result" src="https://github.com/baku67/baku67/blob/main/blackjackjoBanner.png" />
   <div>
