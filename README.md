@@ -272,7 +272,7 @@
   </br>
 
   <div align="center">
-    <img width="220" alt="les100ciels demo 1" src="https://github.com/baku67/baku67/blob/main/les100ciels-1.webp" />
+    <img width="220" alt="les100ciels demo 1" src="https://github.com/baku67/baku67/blob/main/les100ciels-1-v2.webp" />
     <img width="220" alt="les100ciels demo 2" src="https://github.com/baku67/baku67/blob/main/les100ciels-2.webp" />
     <img width="220" alt="les100ciels demo 3" src="https://github.com/baku67/baku67/blob/main/les100ciels-3.webp" />
     <img width="220" alt="les100ciels demo 3" src="https://github.com/baku67/baku67/blob/main/les100ciels-4.png" />
