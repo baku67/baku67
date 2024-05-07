@@ -183,10 +183,19 @@
   </div>
   
   <div align="center">
+    <!-- 
     <img width="220" alt="Mobile screenshot of my portfolio website" src="https://github.com/baku67/baku67/blob/main/portfolio1.png" />
     <img width="220" alt="Mobile screenshot of my portfolio website" src="https://github.com/baku67/baku67/blob/main/portfolio2.png" />
     <img width="220" alt="Mobile screenshot of my portfolio website" src="https://github.com/baku67/baku67/blob/main/portfolio3.png" />
     <img width="220" alt="Mobile screenshot of my portfolio website" src="https://github.com/baku67/baku67/blob/main/portfolio4.png" />
+    -->
+
+  <img width="220" alt="portfolio demo 1" src="https://github.com/baku67/baku67/blob/main/portfolio-1.webp" />
+  <img width="220" alt="portfolio demo 2" src="https://github.com/baku67/baku67/blob/main/portfolio-2.webp" />
+  <img width="220" alt="portfolio demo 3" src="https://github.com/baku67/baku67/blob/main/portfolio-3.webp" />
+  <img width="220" alt="portfolio demo 4" src="https://github.com/baku67/baku67/blob/main/portfolio-4.webp" />
+
+    
   </div>
   
 </div>
