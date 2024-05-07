@@ -260,7 +260,7 @@
 
 <div>
   
-  <h1 align="center"><a href="https://www.blackjackjo.com" target="_blank">Les100ciels</a></h1>
+  <h1 align="center"><a href="https://www.les100ciels.art" target="_blank">Les100ciels</a></h1>
 
   <p align="center">Site vitrine d'artiste</p>
 
