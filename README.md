@@ -6,15 +6,15 @@
 
 
 <h1 align="center">Hello world 👋, Je suis Basile</h1>
-<h3 align="center">Développeur web et web mobile en recherche d'alternance pour le titre "Concepteur Développeur d'Applications" sur Strasbourg et alentours</h3>
+<h3 align="center">Développeur web et web mobile en alternance pour le titre "Concepteur Développeur d'Applications"</h3>
 
 </br></br>
 
 <!--- <p align="center"> <img src="https://komarev.com/ghpvc/?username=baku67&label=Profile%20views&color=0e75b6&style=flat" alt="baku67" /> </p> -->
 
-- 🎓 Je me forme actuellement sur **React**
+- 🎓 Je me forme actuellement sur **React** et **Angular**
 
-- 💡 Mes projets principaux sont disponibles sur [bk-dev.fr](https://bk-dev.fr)
+- 💡 Mes projets principaux sont disponibles sur [bk-dev.fr](https://bk-dev.fr) et [portfolio-react](https://portfolio-react-sand-kappa.vercel.app)
 
 - 📧 Me contacter **basile08@hotmail.fr**
 
